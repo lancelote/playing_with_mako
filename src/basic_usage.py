@@ -28,4 +28,5 @@ my_template2.render_context(context)
 # File-based template #
 #######################
 
-my_template3 = Template(filename=join('template', 'my_template1.tpl'))
+my_template3 = Template(filename=join('templates', 'my_template1.mako'))
+# print(my_template3.render(name='Pavel'))
