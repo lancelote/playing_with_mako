@@ -1,2 +1,5 @@
 # PyCharm Settings
 .idea/
+
+# Mako modules (cache)
+modules/
