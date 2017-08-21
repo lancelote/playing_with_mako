@@ -1,3 +1,9 @@
+.. image:: https://requires.io/github/lancelote/playing_with_mako/requirements.svg?branch=master
+    :target: https://requires.io/github/lancelote/playing_with_mako/requirements/?branch=master
+
+.. image:: https://travis-ci.org/lancelote/playing_with_mako.svg?branch=master
+    :target: https://travis-ci.org/lancelote/playing_with_mako
+
 playing_with_mako
 =================
 

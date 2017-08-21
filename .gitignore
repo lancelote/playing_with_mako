@@ -3,3 +3,6 @@
 
 # Mako modules (cache)
 modules/
+
+# pytest cache
+.cache/
